@@ -18,4 +18,10 @@ public class ProducerController {
         this.producer.sendMessage(message);
         return new ResponseEntity<>("Success", HttpStatus.OK);
     }
+
+    @PostMapping("/produceBatch")
+    public ResponseEntity<String> produce() {
+        this.producer.sendBatchMessages();
+        return new ResponseEntity<>("Success", HttpStatus.OK);
+    }
 }

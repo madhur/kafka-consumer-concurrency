@@ -8,7 +8,6 @@
 
     <scm>
         <connection>scm:git:https://github.com/madhur/kafka-consumer-concurrency.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:madhur/kafka-consumer-concurrency.git</developerConnection>
         <url>https://github.com/madhur/kafka-consumer-concurrency</url>
         <tag>kafka-consumer-concurrency-1.0</tag>
     </scm>

@@ -4,12 +4,12 @@
 
     <groupId>org.example</groupId>
     <artifactId>kafka-consumer-concurrency</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
 
     <scm>
         <connection>scm:git:git@github.com:madhur/kafka-consumer-concurrency.git</connection>
         <url>https://github.com/madhur/kafka-consumer-concurrency</url>
-        <tag>HEAD</tag>
+        <tag>kafka-consumer-concurrency-1.3</tag>
     </scm>
 
     <parent>

@@ -9,7 +9,7 @@
     <scm>
         <connection>scm:git:https://github.com/madhur/kafka-consumer-concurrency.git</connection>
         <url>https://github.com/madhur/kafka-consumer-concurrency</url>
-        <tag>kafka-consumer-concurrency-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <parent>

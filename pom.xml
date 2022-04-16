@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>kafka-consumer-concurrency</artifactId>
-    <version>1.0-SNAPHOT</version>
+    <version>1.0-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/madhur/kafka-consumer-concurrency.git</connection>

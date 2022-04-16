@@ -62,13 +62,13 @@
     <distributionManagement>
         <repository>
             <uniqueVersion>true</uniqueVersion>
-            <id>aws_release</id>
+            <id>local_release</id>
             <url>http://localhost:8081/repository/maven-releases/</url>
             <layout>default</layout>
         </repository>
         <snapshotRepository>
             <uniqueVersion>true</uniqueVersion>
-            <id>aws_snapshot</id>
+            <id>local_snapshot</id>
             <url>http://localhost:8081/repository/maven-snapshots/</url>
             <layout>default</layout>
         </snapshotRepository>
